@@ -1,0 +1,30 @@
+_repo: Bland--debygder-och-sk-rBer-ttelser-fr-n-Finland_18447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sten, Daniel
+    alias: Lange, Ina
+    birthdate: 1846
+    deathdate: 1930
+    gutenberg_agent_id: '5359'
+    url: http://www.gutenberg.org/2009/agents/5359
+    wikipedia: http://fi.wikipedia.org/wiki/Ina_Lange
+description: ''
+gutenberg_issued: '2006-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18447'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Bland ödebygder och skär
+
+  Berättelser från Finland'
+url: http://www.gutenberg.org/ebooks/18447
